@@ -1,5 +1,5 @@
 <h1>Go with the flow</h1>
 <br>
-<h3>1] calculator</h3>
-<h3>2] typecasting</h3>
-<h3>3] string</h3>
+<h3><a href="https://github.com/anulanjewar0504/MISSION_PY/blob/main/level-1/1-calculator.py"> 1] calculator</a></h3>
+<h3><a href = "https://github.com/anulanjewar0504/MISSION_PY/blob/main/level-1/2-typecasting.py">2] typecasting</a></h3>
+<h3><a href = "https://github.com/anulanjewar0504/MISSION_PY/blob/main/level-1/3-string.py">3] string</a></h3>
