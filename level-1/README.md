@@ -1,5 +1,5 @@
 <h1>Go with the flow</h1>
 <br>
-<p>1] calculator
-2] typecasting
-3] string</p>
+<h3>1] calculator</h3>
+<h3>2] typecasting</h3>
+<h3>3] string</h3>
