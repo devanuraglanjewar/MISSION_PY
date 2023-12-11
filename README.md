@@ -1,6 +1,6 @@
 <h1>MISSION_PY: Your Journey into Python Programming and Data Structures</h1>
 <br>
-**#Welcome to MISSION_PY:** A Python Learning Journey
+<b>#Welcome to MISSION_PY:</b> A Python Learning Journey
 
 🚀 Hello fellow learners! Welcome aboard MISSION_PY, your gateway to mastering Python programming from the ground up. Whether you're just starting your coding adventure or looking to deepen your understanding of data structures and advanced concepts, this repository is designed to be your trusty companion.
 
