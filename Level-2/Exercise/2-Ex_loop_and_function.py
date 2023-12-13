@@ -61,3 +61,17 @@ for num in lst:
   if num % 2 == 0:
     sum_even += num
 print("Sum of even numbers is ", sum_even)
+
+
+# Question 5:
+# --Write a program to convert binary to decimal number
+k = int(input("enter any binary number: "))
+s=0
+n=0
+while(k!=0):
+  d = k%10
+  s=s+d*pow(2,n)
+  k=k/10
+  n=n+1
+
+print("=>",s)
