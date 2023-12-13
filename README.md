@@ -31,3 +31,4 @@ Learning to code is a journey, and MISSION_PY is here to make that journey enjoy
 Ready to embark on your Python adventure? Let's code together and make MISSION_PY a stepping stone towards your programming success!
 
 Happy coding! 🐍✨
+Make sure to star the repo ⭐
