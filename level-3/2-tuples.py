@@ -64,3 +64,24 @@ last_element = my_tuple[-1]
 # | Mutability        | Immutable (elements cannot be changed)    | Mutable (elements can be changed)|
 # | Performance      | Generally faster than lists               | Generally slower than tuples     |
 # | Use cases       | When order and immutability are important | When you need to modify elements |
+
+# tuple method 
+# -- we cannot manipulate tuple in a direct way but there are some methods for it
+
+# Example:
+contries = ("India", "spain", "Italy", "England", "Germany")
+temp = list(contries)
+temp.append("Russia")
+temp.pop(3)
+temp[2]= "Finland"
+contries = tuple(temp)
+print(contries)
+
+# count, Index
+tuple1 = (1,0,2,1,5,4,9,1,6,7)
+res = tuple1.count(1)
+idx = tuple1.index(5)
+sidx = tuple1.index(1,1,8) # first it will slice tuple from 1 to 8 and then check 1 from 1 to 8 index
+print("the count of 1 is: ",res)
+print("the index of 5 is: ",idx)
+print("the index of 5 in 1 to 8: ",sidx)
